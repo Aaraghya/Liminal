@@ -1,17 +1,6 @@
 # Liminal
 Built by Team Onsight.
 
-Liminal is a mental wellness web application that provides a calm, judgment free digital space for emotional processing, self expression, and community support. The platform is designed around the idea that no emotion is invalid and users should never be scored, ranked, or pressured.
-
-## Live Demo
-https://heart-voice-studio.lovable.app/
-
-## Problem
-Many emotional support tools turn vulnerability into a performance through metrics, rankings, or optimization which discourages honest emotional expression and meaningful reflection.
-
-## Solution
-Liminal provides a quiet digital space where users can process emotions, express thoughts, and connect with others without pressure or judgment. The system validates emotional experiences without attempting to fix or diagnose users. 
-
 ## Features
 1) Emotion based onboarding and personalized dashboard
 2) Secure authentication and user profiles 
@@ -21,13 +10,6 @@ Liminal provides a quiet digital space where users can process emotions, express
 6) Anonymous community interaction and support
 7) Unsent messages space for emotional expression
 8) Dark and light theme support
-
-## Tech Stack
-1)Frontend: React + TypeScript, Vite, Tailwind, Framer Motion
-2) Backend: Supabase (PostgreSQL, Auth, Storage), Serverless Edge Functions
-3) AI: OpenAI-compatible conversational models with SSE streaming
-4) Data: TanStack React Query
-5) Security: JWT Authentication + Row Level Security
 
 
 ## Architecture: 
